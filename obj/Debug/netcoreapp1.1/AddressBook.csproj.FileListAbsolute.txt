@@ -6,3 +6,4 @@ C:\Users\Ben\dev\AddressBook\bin\Debug\netcoreapp1.1\AddressBook.pdb
 C:\Users\Ben\dev\AddressBook\obj\Debug\netcoreapp1.1\AddressBook.AssemblyInfo.cs
 C:\Users\Ben\dev\AddressBook\obj\Debug\netcoreapp1.1\AddressBook.dll
 C:\Users\Ben\dev\AddressBook\obj\Debug\netcoreapp1.1\AddressBook.pdb
+C:\Users\Ben\dev\AddressBook\obj\Debug\netcoreapp1.1\AddressBook.csprojResolveAssemblyReference.cache

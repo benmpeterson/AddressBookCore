@@ -5,8 +5,36 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>@ViewData["Title"]</title>
+    
+    <enviornment names="Development">
+        <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css">
+    </enviornment>
+
+    <enviornment names="Staging, Production">
+        <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css">
+    </enviornment>
+
 </head>
 <body>
+    <div class="navbar navbar-default">
+        <div class="container">
+            <a asp-controller="Home" asp-action="Index" class="navbar-brand">Address Book Application</a>
+        </div>
+    </div>
+    <div class="container body-content">
     @RenderBody()
+    <hr>
+    <footer>
+        <p>Copyright </p>
+    </footer>
+    </div>
+
+    <enviornment names="Development">
+        <script src="~/lib/jquery/dist/jquery.js"></script>
+    </enviornment>
+
+    <enviornment names="Staging, Production">
+        <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    </enviornment>
 </body>
 </html>

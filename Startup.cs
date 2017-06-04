@@ -18,11 +18,11 @@ namespace AddressBook
         {
             if(env.IsDevelopment())
             {
-                app.UseDeveloperExceptionPage();
+               app.UseDeveloperExceptionPage();
             }
             else
             {
-                app.UseExceptionHandler("Home/Error");
+               app.UseExceptionHandler("Home/Error");
             }
             
             app.UseStaticFiles();
