@@ -14,8 +14,11 @@ namespace AddressBook.Models
         public string LastName { get; set; }
 
         [Required, MaxLength(30)]
-        [Display(Name="Phone Name")]
+        [Display(Name="Phone Number")]
         public string PhoneNumber { get; set; }
+
+        [Required]
+        [Display(Name="Email Address")]
         public string EmailAddress { get; set; }
     }
 }
