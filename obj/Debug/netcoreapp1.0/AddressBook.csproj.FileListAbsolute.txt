@@ -1,0 +1,8 @@
+c:\Users\Ben\dev\AddressBook\bin\Debug\netcoreapp1.0\AddressBook.deps.json
+c:\Users\Ben\dev\AddressBook\bin\Debug\netcoreapp1.0\AddressBook.runtimeconfig.json
+c:\Users\Ben\dev\AddressBook\bin\Debug\netcoreapp1.0\AddressBook.runtimeconfig.dev.json
+c:\Users\Ben\dev\AddressBook\bin\Debug\netcoreapp1.0\AddressBook.dll
+c:\Users\Ben\dev\AddressBook\bin\Debug\netcoreapp1.0\AddressBook.pdb
+c:\Users\Ben\dev\AddressBook\obj\Debug\netcoreapp1.0\AddressBook.AssemblyInfo.cs
+c:\Users\Ben\dev\AddressBook\obj\Debug\netcoreapp1.0\AddressBook.dll
+c:\Users\Ben\dev\AddressBook\obj\Debug\netcoreapp1.0\AddressBook.pdb
